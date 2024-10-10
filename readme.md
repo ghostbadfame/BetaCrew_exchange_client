@@ -6,7 +6,6 @@ This repository contains a Node.js client for connecting to the BetaCrew exchang
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Output](#output)
 
 ## Prerequisites
