@@ -20,7 +20,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/ghostbadfame/BetaCrew_exchange_client](https://github.com/ghostbadfame/BetaCrew_exchange_client.git)
+   git clone https://github.com/ghostbadfame/BetaCrew_exchange_client.git
 2. Navigate into the project directory:
 
    ```bash
