@@ -21,16 +21,16 @@ Make sure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ghostbadfame/betacrew-client.git
+   git clone https://github.com/ghostbadfame/BetaCrew-assignment
 2. Navigate into the project directory:
 
    ```bash
-   cd betacrew-client
+   cd BetaCrew-assignment
 3. Install the required dependencies:
 
    ```bash
    npm install
-4. To run the BetaCrew client, use the following command:
+4. To run the BetaCrew-assignment, use the following command:
 
    ```bash
    npm start

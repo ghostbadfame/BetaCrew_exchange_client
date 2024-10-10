@@ -1,5 +1,5 @@
 {
-    "name": "betacrew-client",
+    "name": "betacrew-exchange-client",
     "version": "1.0.0",
     "description": "Node client for BetaCrew exchange server",
     "main": "main.js",

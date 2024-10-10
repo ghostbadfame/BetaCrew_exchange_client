@@ -49,7 +49,7 @@ class BetaCrewExchangeClient {
         resolve();
       });
 
-      const oad = Buffer.alloc(2);
+      const payload = Buffer.alloc(2);
       payload.writeUInt8(1, 0); // Call Type 1: Stream All Packets
       payload.writeUInt8(0, 1);
       this.client.write(payload); // Send the request to the server
