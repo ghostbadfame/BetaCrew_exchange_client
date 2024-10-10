@@ -1,4 +1,4 @@
-# BetaCrew Client
+# BetaCrew_exchange_client
 
 This repository contains a Node.js client for connecting to the BetaCrew exchange server. It streams packets of data, checks for missing sequences, and saves the received packets to a JSON file.
 
@@ -6,7 +6,6 @@ This repository contains a Node.js client for connecting to the BetaCrew exchang
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Output](#output)
 
 ## Prerequisites
@@ -21,11 +20,11 @@ Make sure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ghostbadfame/BetaCrew-assignment
+   git clone https://github.com/ghostbadfame/BetaCrew_exchange_client
 2. Navigate into the project directory:
 
    ```bash
-   cd BetaCrew-assignment
+   cd BetaCrew_exchange_client
 3. Install the required dependencies:
 
    ```bash
